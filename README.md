@@ -2,8 +2,9 @@
 
 <h1> About me! </h1>
 My name is Daniel, and I'm a recent graduate from UC San Diego with a Bachelors of Science in Data Science. I love statistics, and I'm particularly fond of practical applications of data science in both analytics and machine learning.
-Find my projects on my website here:
-Take a look at my resume here:
+
+<h3>Find my projects on my website here:</h3>
+<h3>Take a look at my resume here:</h3>
 
 <h3>Education</h3>
 Bachelors of Science in Data Science at UC San Diego, graduated in March of 2025.
