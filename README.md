@@ -9,12 +9,13 @@ My name is Daniel, and I'm a recent graduate from UC San Diego with a Bachelors 
 <h3>Education</h3>
 Bachelors of Science in Data Science at UC San Diego, graduated in March of 2025.
 
-<h2> Projects and previous work </h2>
+<h2> Feel free to check out my repos! </h2>
+<h4> Or my personal website!</h4>
 
-- [SDG&E - FLARE (Fault Logging and Assessment for Responsive EV repairs)](https://jingchenggu.github.io/FLARE-website/)
-- 
+[Link](https://dskong07.github.io/)
 
-<h4>Reach me at:</h4>
+<h2>Reach me at:</h2>
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/dskong07)
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:dskong07@gmail.com)
 <!--
