@@ -4,7 +4,8 @@
 My name is Daniel, and I'm a recent graduate from UC San Diego with a Bachelors of Science in Data Science. I love statistics, and I'm particularly fond of practical applications of data science in both analytics and machine learning.
 
 <h3>Take a look at my resume here:</h3>
-[dskong_resume_4-21-25.pdf](https://github.com/user-attachments/files/19842633/dskong_resume_4-21-25.pdf)
+
+[Resume PDF](https://github.com/user-attachments/files/19842633/dskong_resume_4-21-25.pdf)
 
 <h3>Education</h3>
 Bachelors of Science in Data Science at UC San Diego, graduated in March of 2025.
