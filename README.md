@@ -7,6 +7,12 @@ My name is Daniel, and I'm a recent graduate from UC San Diego with a Bachelors 
 
 [Resume PDF](https://github.com/user-attachments/files/19842633/dskong_resume_4-21-25.pdf)
 
+<h3>Professional Experience</h3>
+Full-stack software development engineer at Civicom (Current)
+Data Science fellowship at San Diego Gas & Electric
+Data Scientist at The Hong Kong University of Science and Technology
+Founding Member and Data Engineer at Wizard Tower 
+
 <h3>Education</h3>
 Bachelors of Science in Data Science at UC San Diego, graduated in March of 2025.
 
